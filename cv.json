@@ -1,0 +1,181 @@
+{
+  "basics": {
+    "name": "Christian Alexander Olivares Amador",
+    "label": "Ingeniero Redes y Software, Product Analyst, Frond-end Engineer JR",
+    "image": "profile.jpg",
+    "email": "calexanderolivaresa@gmail.com",
+    "phone": "+52 55 4915 2925",
+    "url": "https://midu.dev",
+    "summary": "+8 años de experiencia profesional principalmente en el sector bancario y medios de pago, me he destacado en areas operativas, gestión de productos y análisis de datos. Mi enfoque se centra en optimizar procesos, desarrollar estrategias de producto efectivas y utilizar análisis de datos para la toma de decisiones. En el último año, he ampliado mi experiencia como desarrollador front-end freelance, aplicando mis habilidades para ofrecer soluciones innovadoras y eficientes en este campo.",
+    "location": {
+      "address": "",
+      "postalCode": "54090",
+      "city": "CDMX",
+      "countryCode": "MX",
+      "region": "Mexico"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Alexander",
+        "url": "https://www.linkedin.com/in/christian-alexander-olivares-amador-a22a4897/"
+      },
+      {
+        "network": "GitHub",
+        "username": "Alexander",
+        "url": "https://github.com/SimulationCartridge"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Global Payments Technology",
+      "position": "Post Sales Specialist",
+      "startDate": "2023-08-10",
+      "endDate": null,
+      "summary": "Experiencia en atención postventa de clientes de alto valor, ofreciendo soporte técnico especializado en terminales y realizando análisis detallados del funcionamiento de productos de pago. Responsable de gestionar nuevas instalaciones físicas y aplicativos digitales, asegurando una implementación exitosa y satisfactoria para los clientes. Además, encargado de medir el uso del producto, generar reportes mensuales para áreas interesadas y levantar requerimientos de mejoras en conjunto con áreas de producto.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Oyster",
+      "position": "Product Operations Analyst",
+      "startDate": "2021-08-01",
+      "endDate": "2022-08-01",
+      "summary": "Como analista de producto, trabajé estrechamente con Product Owners para planificar el backlog, realicé pruebas previas a la implementación y aseguré una documentación detallada. Colaboré con stakeholders como marketing, diseño, customer service y desarrolladores para garantizar la alineación y el éxito del producto, utilizando metodologías ágiles como Kanban y Scrum. Además, generé reportes mensuales de medición del uso del producto para informar y mejorar continuamente su desempeño.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Banco Sabadell",
+      "position": "Supervisor Backoffice Cuentas - Banca en linea",
+      "startDate": "2019-08-24",
+      "endDate": "2021-08-01",
+      "summary": "Supervisor de Backoffice con experiencia en la supervisión de equipos de operación de backoffice de cuentas. Experto en revisar y gestionar la documentación KYC y PLD de nuevos clientes, así como en la activación de cuentas y la creación de perfiles bancarios en el sistema. Especializado en la revisión de inversiones diarias y en la configuración de banca digital. Profesional dedicado a la revisión y documentación de nuevos procesos en colaboración con Product Managers. Responsable de la preparación y seguimiento de perfiles de clientes para auditorías internas y externas, garantizando el cumplimiento normativo y la eficiencia operativa.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "education": [{
+    "institution": "Universidad Tecnologica de Mexico",
+    "url": "https://www.unitec.mx/",
+    "area": "Ingeniero de Software"
+  },
+  {
+    "institution": "CodeAcademy",
+    "url": "https://www.codecademy.com/",
+    "area": "Full-Stack Engineer Career"
+  },
+  {
+    "institution": "Coderhouse",
+    "url": "https://www.coderhouse.com/es/",
+    "area": "Product Manager"
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "mars.codes",
+      "isActive": true,
+      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "highlights": [
+        "Elige tu propia aventura",
+        "En desarrollo"
+      ],
+      "url": "https://mars.codes"
+    }
+  ]
+}
