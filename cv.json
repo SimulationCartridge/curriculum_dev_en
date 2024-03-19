@@ -168,14 +168,14 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Senoidal Blog",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Proyecto de divulgación de música, fotografia y arte",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "Post originales",
+        "Uso de contentful y netlify"
       ],
-      "url": "https://mars.codes"
+      "url": "https://senoidalhz.netlify.app/"
     }
   ]
 }
