@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Christian Alexander Olivares Amador",
-    "label": "Ingeniero Redes y Software, Product Analyst, Frond-end Engineer JR",
+    "label": "Software Enginner, Product Operations Analyst, Frond-end Engineer JR",
     "image": "profile.jpg",
     "email": "calexanderolivaresa@gmail.com",
     "phone": "+52 55 4915 2925",
     "url": "https://midu.dev",
-    "summary": "+8 años de experiencia profesional principalmente en el sector bancario y medios de pago, me he destacado en areas operativas, gestión de productos y análisis de datos. Mi enfoque se centra en optimizar procesos, desarrollar estrategias de producto efectivas y utilizar análisis de datos para la toma de decisiones. En el último año, he ampliado mi experiencia como desarrollador front-end freelance, aplicando mis habilidades para ofrecer soluciones innovadoras y eficientes en este campo.",
+    "summary": "+8 years of professional experience primarily in the banking and payment processing sector, I have excelled in operational areas, product management, and data analysis. My focus is on optimizing processes, developing effective product strategies, and using data analysis for decision-making. In the past year, I have expanded my experience as a freelance front-end developer, applying my skills to deliver innovative and efficient solutions in this ",
     "location": {
       "address": "",
       "postalCode": "54090",
@@ -33,7 +33,7 @@
       "position": "Post Sales Specialist",
       "startDate": "2023-08-10",
       "endDate": null,
-      "summary": "Experiencia en atención postventa de clientes de alto valor, ofreciendo soporte técnico especializado en terminales y realizando análisis detallados del funcionamiento de productos de pago. Responsable de gestionar nuevas instalaciones físicas y aplicativos digitales, asegurando una implementación exitosa y satisfactoria para los clientes. Además, encargado de medir el uso del producto, generar reportes mensuales para áreas interesadas y levantar requerimientos de mejoras en conjunto con áreas de producto.",
+      "summary": "Experience in post-sales customer service for high-value clients, providing specialized technical support on terminals and conducting detailed analysis of the operation of payment products. Responsible for managing new physical installations and digital applications, ensuring successful and satisfactory implementation for clients. Additionally, responsible for measuring product usage, generating monthly reports for interested areas, and raising improvement requirements in conjunction with product areas.",
       "highlights": [
         "Started the company"
       ]
@@ -43,17 +43,17 @@
       "position": "Product Operations Analyst",
       "startDate": "2021-08-01",
       "endDate": "2022-08-01",
-      "summary": "Como analista de producto, trabajé estrechamente con Product Owners para planificar el backlog, realicé pruebas previas a la implementación y aseguré una documentación detallada. Colaboré con stakeholders como marketing, diseño, customer service y desarrolladores para garantizar la alineación y el éxito del producto, utilizando metodologías ágiles como Kanban y Scrum. Además, generé reportes mensuales de medición del uso del producto para informar y mejorar continuamente su desempeño.",
+      "summary": "As a product analyst, I worked closely with Product Owners to plan the backlog, conducted pre-implementation testing, and ensured detailed documentation. I collaborated with stakeholders such as marketing, design, customer service, and developers to ensure product alignment and success, using agile methodologies such as Kanban and Scrum. Additionally, I generated monthly product usage measurement reports to inform and continuously improve its performance.",
       "highlights": [
         "Started the company"
       ]
     },
     {
       "name": "Banco Sabadell",
-      "position": "Supervisor Backoffice Cuentas - Banca en linea",
+      "position": "Supervisor Backoffice - App Banking",
       "startDate": "2019-08-24",
       "endDate": "2021-08-01",
-      "summary": "Supervisor de Backoffice con experiencia en la supervisión de equipos de operación de backoffice de cuentas. Experto en revisar y gestionar la documentación KYC y PLD de nuevos clientes, así como en la activación de cuentas y la creación de perfiles bancarios en el sistema. Especializado en la revisión de inversiones diarias y en la configuración de banca digital. Profesional dedicado a la revisión y documentación de nuevos procesos en colaboración con Product Managers. Responsable de la preparación y seguimiento de perfiles de clientes para auditorías internas y externas, garantizando el cumplimiento normativo y la eficiencia operativa.",
+      "summary": "Backoffice Supervisor with experience supervising backoffice account operation teams. Expertise in reviewing and managing KYC and AML documentation for new clients, as well as in account activation and creating banking profiles in the system. Specialized in reviewing daily investments and configuring digital banking. Dedicated professional in reviewing and documenting new processes in collaboration with Product Managers. Responsible for preparing and monitoring customer profiles for internal and external audits, ensuring regulatory compliance and operational efficiency.",
       "highlights": [
         "Started the company"
       ]
